@@ -1,0 +1,37 @@
+,0
+Unnamed: 0.1,int64
+Unnamed: 0,int64
+index,int64
+VendorID,int64
+tpep_pickup_datetime,object
+tpep_dropoff_datetime,object
+passenger_count,float64
+trip_distance,float64
+RatecodeID,float64
+store_and_fwd_flag,object
+PULocationID,int64
+DOLocationID,int64
+payment_type,int64
+fare_amount,float64
+extra,float64
+mta_tax,float64
+tip_amount,float64
+tolls_amount,float64
+improvement_surcharge,float64
+total_amount,float64
+congestion_surcharge,float64
+airport_fee,float64
+trip_duraion,float64
+Plongitude,float64
+Platitude,float64
+Dlongitude,float64
+Dlatitude,float64
+pickup_date,object
+st_abb,object
+st_code,int64
+date,object
+stability,object
+tmin,float64
+tmax,float64
+tavg,float64
+ppt,float64
